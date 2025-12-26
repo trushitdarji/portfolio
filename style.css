@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: aliceblue;
+  font-family: poppins;
+  text-align: center;
+}
+
+.containor {
+  background-color: rgb(19, 28, 57);
+  color: white;
+  padding: 60px;
+}
+
+.name {
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.about {
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.aboutme {
+  background-color: white;
+  width: 84%;
+  padding: 50px;
+  margin: 20px auto;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.education {
+  background-color: rgb(192, 255, 234);
+  width: 84%;
+  padding: 30px;
+  margin: auto;
+}
+
+.inercont p {
+  background-color: #fff;
+  padding: 18px 0px;
+  margin: 15px 200px;
+}
+.skills {
+  background-color: rgb(255, 238, 175);
+  width: 84%;
+  padding: 30px;
+  margin: 20px auto;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.projects {
+  background-color: rgb(232, 208, 255);
+  width: 84%;
+  padding: 30px;
+  margin: 20px auto;
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.contect {
+  background-color: rgb(208, 237, 255);
+  width: 84%;
+  padding: 30px;
+  margin: 20px auto;
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.sk {
+  font-style: italic;
+}
+
+.footer {
+  background-color: rgb(19, 28, 57);
+  color: white;
+  padding: 30px;
+  font-size: 18px;
+}
